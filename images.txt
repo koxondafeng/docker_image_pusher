@@ -1,4 +1,10 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
+portainer/portainer-ce
 --platform=linux/arm64 xiaoyaliu/alist
+postgres
+zabbix/zabbix-snmptraps:alpine-7.0-latest
+zabbix/zabbix-server-pgsql:alpine-7.0-latest
+zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
+zabbix/zabbix-proxy-sqlite3
