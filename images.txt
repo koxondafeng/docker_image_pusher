@@ -9,4 +9,4 @@ zabbix/zabbix-server-pgsql:alpine-7.0-latest
 zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
 zabbix/zabbix-proxy-sqlite3
 zerotier/zerotier
-rustdesk/rustdesk-server:latest
+thtom/rustdesk-server:latest
