@@ -13,3 +13,4 @@ thtom/rustdesk-server:latest
 mysql:5.7
 pierrecdn/phpipam
 rustdesk/rustdesk-server
+grafana/grafana
