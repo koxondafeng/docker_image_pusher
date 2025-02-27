@@ -15,3 +15,5 @@ pierrecdn/phpipam
 rustdesk/rustdesk-server
 grafana/grafana
 netboxcommunity/netbox
+postgres:14
+redis:6
