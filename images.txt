@@ -17,3 +17,6 @@ grafana/grafana
 netboxcommunity/netbox
 postgres:14
 redis:6
+odoo:latest
+postgres:15
+
